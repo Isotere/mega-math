@@ -1,0 +1,5 @@
+cognitive-complexity-threshold = 20
+too-many-arguments-threshold = 6
+
+# Для математической библиотеки однобуквенные переменные — норма
+allowed-idents-below-min-chars = ["x", "y", "z", "i", "j", "k", "m", "n", "v", "w", "_"]
